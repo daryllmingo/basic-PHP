@@ -1,0 +1,17 @@
+*{
+    margin: 0%;
+    padding:0%;
+}
+.container{
+background-color: aquamarine;
+min-height: 100vh;
+border: 10px solid cornflowerblue;
+}
+.content{
+max-width: 900px;
+margin: 0 auto;
+}
+.image_container{
+    height: 320px;
+    width: 300px;
+}
